@@ -1,0 +1,21 @@
+{
+    "indexVersion": 1.0,
+    "name": "test",
+    "url": "https://raw.githubusercontent.com/alexcoder04/LeoConsole-apkg-repo-test/main/index.json",
+    "project": {
+        "description": "test repo",
+        "maintainer": "alexcoder04",
+        "email": "alexcoder04@proton.me",
+        "homepage": "https://github.com/alexcoder04/LeoConsole-apkg-repo-test",
+        "bugTracker": "https://github.com/alexcoder04/LeoConsole-apkg-repo-test/issues"
+    },
+    "packageList": [
+        {
+            "name": "apkg",
+            "description": "advanced package manager",
+            "version": "1.0.0",
+            "os": "any",
+            "url": "https://raw.githubusercontent.com/alexcoder04/LeoConsole-apkg-repo-test/main/apkg-any-1.0.0.lcpkg"
+        }
+    ]
+}
